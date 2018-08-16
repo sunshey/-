@@ -6,6 +6,8 @@
 * [exitUntilCollapsed](#exitUntilCollapsed)
 * [snap](#snap)
 
+[Android 详细分析AppBarLayout的五种ScrollFlags](https://www.jianshu.com/p/7caa5f4f49bd)
+
 
 scroll</br>
 ---
@@ -37,6 +39,7 @@ android:layout_height="@dimen/dp_200"
 ...
 app:layout_scrollFlags="scroll|snap"
 ```
+
 
 
 
