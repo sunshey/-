@@ -6,7 +6,7 @@
 * [exitUntilCollapsed](#exitUntilCollapsed)
 * [snap](#snap)
 
-[Android 详细分析AppBarLayout的五种ScrollFlags](https://www.jianshu.com/p/7caa5f4f49bd)
+参考[Android 详细分析AppBarLayout的五种ScrollFlags](https://www.jianshu.com/p/7caa5f4f49bd)
 
 
 scroll</br>
